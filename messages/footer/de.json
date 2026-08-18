@@ -1,0 +1,26 @@
+{
+  "socialMedia": {
+    "heading": "Fizzbee",
+    "paraCopy": "Fizzbee. Alle Rechte vorbehalten."
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "product": "Produkt",
+    "helpSupport": "Hilfe & Support",
+    "legal": "Rechtliches",
+    "items": {
+      "blog": "Blog",
+      "events": "Veranstaltungen",
+      "social": "Sozial",
+      "gold": "Fizzbee Gold",
+      "successStories": "Erfolgsgeschichten",
+      "downloadNow": "Jetzt herunterladen",
+      "safety": "Sicherheit",
+      "contact": "Kontakt",
+      "behavior": "Verhalten",
+      "terms": "Bedingungen",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "cookies": "Cookies"
+    }
+  }
+}

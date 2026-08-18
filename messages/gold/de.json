@@ -1,0 +1,36 @@
+{
+  "title": "Fizzzbee Gold",
+  "heading": "Upgrade zu Gold und finde mühelos dein ideales Match! Genieße erweiterte Suchoptionen, unbegrenzten Profilzugriff und exklusive Vorteile.",
+  "btnText": "Upgrade zu Gold",
+  "btnLink": "#",
+  "heroSectionData": {
+    "image": "sideImage",
+    "heroImage": "heroImage"
+  },
+  "cardData": [
+    {
+      "heading": "Definiere deine Essentials",
+      "description": "Passe deine Suche an, indem du wichtige Filter setzt. So siehst du nur Profile, die zu deinen Vorlieben passen. Sortiere nach Religion, Beruf, Größe, Sprache und mehr!"
+    },
+    {
+      "heading": "Unbegrenzte Matches, keine Ablenkungen",
+      "description": "Gold-Mitglieder genießen unbegrenzten Profilzugriff mit einem werbefreien Erlebnis, das es dir erleichtert, deinen perfekten Partner zu finden."
+    },
+    {
+      "heading": "Verbessere deinen ersten Eindruck – kostenloses tägliches Kompliment!",
+      "description": "Erwecke ihre Aufmerksamkeit, bevor ihr matched, indem du ein Kompliment sendest! Deine Nachricht erscheint ganz oben in ihrer Like-Liste und erhöht deine Chancen auf eine bedeutungsvolle Verbindung. Ein Kompliment könnte der Anfang von etwas Großem sein!"
+    },
+    {
+      "heading": "Werde mit einem kostenlosen wöchentlichen Profil-Boost gesehen!",
+      "description": "Steige an die Spitze und ziehe mehr Matches an! Jeder Boost bringt dein Profil ins Rampenlicht und steigert deine Sichtbarkeit um das 30-fache. Mache jede Woche unvergesslich!"
+    },
+    {
+      "heading": "Zweite Chancen, jederzeit!",
+      "description": "Einen Fehler gemacht? Deine Meinung geändert? Besuche Profile erneut, die du übersprungen oder blockiert hast, und gib Verbindungen eine zweite Chance – wann immer du möchtest."
+    },
+    {
+      "heading": "Filtern mit Gold",
+      "description": "Aus Respekt vor Privatsphäre und Bescheidenheit entscheiden sich einige Mitglieder, ihre Fotos zu verbergen. Mit Gold kannst du verschwommene Bilder herausfiltern und nur sichtbare Profile sehen."
+    }
+  ]
+}

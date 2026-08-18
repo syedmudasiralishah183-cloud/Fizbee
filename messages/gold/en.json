@@ -1,0 +1,36 @@
+{
+  "title": "Fizzzbee Gold",
+  "heading": "Upgrade to Gold and discover your ideal match effortlessly! Enjoy advanced search options, unlimited profile access, and exclusive perks.",
+  "btnText": "Upgrade to Gold",
+  "btnLink": "#",
+  "heroSectionData": {
+    "image": "sideImage",
+    "heroImage": "heroImage"
+  },
+  "cardData": [
+    {
+      "heading": "Define Your Essentials",
+      "description": "Customize your search by setting must-have filters, ensuring you see matches that align with your preferences. Sort profiles based on faith, career, height, language, and more!."
+    },
+    {
+      "heading": "UEndless Matches, Zero Distractions",
+      "description": "Gold members enjoy unlimited profile access with an ad-free experience, making it easier to find your perfect partner."
+    },
+    {
+      "heading": "Boost Your First Impression – Free Daily Compliment!",
+      "description": "Catch their attention before matching by sending a Compliment! Your message appears at the top of their likes, increasing your chances of making a meaningful connection. One Compliment could lead to forever!"
+    },
+    {
+      "heading": "Get Noticed with a Free Weekly Profile Boost!",
+      "description": "Rise to the top and attract more matches! Each Boost puts your profile in the spotlight, increasing your visibility by 30x. Make every week count!"
+    },
+    {
+      "heading": "Second Chances, Anytime!",
+      "description": "Made a mistake? Changed your mind? Revisit profiles you've passed or blocked and give connections another chance whenever you want."
+    },
+    {
+      "heading": "Filter-out with Gold",
+      "description": "Respecting privacy and modesty, some members choose to hide their photos. With Gold, you have the option to filter out blurred images and view only visible profiles."
+    }
+  ]
+}

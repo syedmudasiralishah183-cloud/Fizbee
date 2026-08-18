@@ -1,0 +1,55 @@
+{
+  "callingCards": [
+    {
+      "heading": "Bauen Sie bedeutungsvolle lokale Verbindungen auf",
+      "description": "Treten Sie mit Menschen in Ihrer Community in Kontakt, treffen Sie gleichgesinnte Freunde in Ihrer Nähe und schließen Sie sich Gruppen an, die Ihre Interessen wecken. Drücken Sie sich aus und verbinden Sie sich mühelos!",
+      "btnText": "Mehr erfahren"
+    },
+    {
+      "heading": "Teilen Sie frei, anonym wenn nötig",
+      "description": "Interagieren Sie mit Ihrer Community, indem Sie Beiträge verfassen oder Rat einholen. Bei sensiblen Themen haben Sie die Möglichkeit, anonym zu posten und Ihre Privatsphäre zu wahren.",
+      "btnText": "Mehr erfahren"
+    },
+    {
+      "heading": "Eine sichere Plattform mit ethischen Werten",
+      "description": "Wir unterstützen offene Diskussionen über wichtige Themen und fördern gleichzeitig den respektvollen Umgang innerhalb der Community. Unser Support-Team ist rund um die Uhr verfügbar, um sicherzustellen, dass Ihr Feed positiv und respektvoll bleibt.",
+      "btnText": "Mehr erfahren"
+    }
+  ],
+  
+  "makeFriendData": {
+    "title": "EINFÜHRUNG",
+    "mainHeading": "Fizzzbee Social",
+    "subHeading": "Möchten Sie neue Freunde finden und vielleicht auch einen Partner?",
+    "secSubHeading": "Ein brandneues soziales Netzwerk, um gleichgesinnte Muslime in Ihrer Nähe zu treffen. Laden Sie jetzt Fizzzbee herunter.",
+    "description": "Seien Sie der Erste, der erfährt, wann wir den sozialen Modus veröffentlichen.",
+    "btnText": "Jetzt herunterladen",
+    "btnLink": "#",
+    "Images": { "image": "makeFriendImage" }
+  },
+
+  "makeFriendData2": {
+    "title": "",
+    "mainHeading": "Exklusiv für Fizzzbee-Mitglieder!",
+    "subHeading": "Jetzt exklusiv für Fizzzbee-Mitglieder in Großbritannien, den USA, Kanada und Australien verfügbar.",
+    "secSubHeading": "Um großartige Inhalte zu sehen und mit Ihrer Community in Kontakt zu treten, laden Sie jetzt Muzz herunter.",
+    "description": "",
+    "btnText": "",
+    "btnLink": "#",
+    "cardHeading": "Suchen Sie nach Freunden, nicht nach einem Partner? Melden Sie sich an, um als Erster zu erfahren, wann wir unseren reinen Sozialmodus starten!",
+    "cardBtnText": "Jetzt herunterladen",
+    "cardBtnLink": "#",
+    "Images": { "image": "social" }
+  },
+
+  "makeFriendData3": {
+    "title": "EINFÜHRUNG",
+    "mainHeading": "Fizzzbee Social",
+    "subHeading": "Möchten Sie neue Freunde finden und vielleicht auch einen Partner?",
+    "secSubHeading": "Ein brandneues soziales Netzwerk, um gleichgesinnte Muslime in Ihrer Nähe zu treffen. Laden Sie jetzt Fizzzbee herunter.",
+    "description": "Seien Sie der Erste, der erfährt, wann wir den sozialen Modus veröffentlichen.",
+    "btnText": "",
+    "btnLink": "#",
+    "Images": { "image": "social" }
+  }
+}

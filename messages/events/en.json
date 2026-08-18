@@ -1,0 +1,110 @@
+{
+  "title": "Get Ready for the Best Matrimonial Events – Only at Frizzbee!",
+  "heading": "Tired of awkward setups and nosy aunties giving you relationship advice? Say hello to Frizzbee, your go-to app for finding love your way – no pressure, no interference. We’re bringing you a series of exciting events that are as fun as they are effective in helping you find your perfect match.",
+  "btnText": "Download now",
+  "btnLink": "#",
+  "image": "sideImage",
+  "heroImage": "heroImage",
+
+  "latestBlogsData": {
+    "heading": "Here’s what’s coming up",
+    "blogsCard": [     
+      {
+        "image": "image1",
+        "heading": "Virtual Matchmaking: The Future of Dating",
+        "description": "No more annoying first dates or blind spots – our live virtual matchmaking events let you meet people from around the world in a safe, relaxed environment. Think of it like speed dating, but way cooler, with real matchmakers guiding the process. Trust us, it’s the easiest way to find someone who gets you."
+      },
+      {
+        "image": "image2",
+        "heading": "Cultural & Regional Connect: Global Matches, Local Vibes",
+        "description": "Whether you’re in Lahore or London, Frizzbee’s Cultural & Regional Connect events let you explore profiles from all over. You can find someone who shares your traditions, values, and even your vibe – no matter where they are in the world. It’s all about expanding your horizons, without ever leaving your couch."
+      },
+      {
+        "image": "image3",
+        "heading": "Wedding Planning 101: From “Will You?” to “I Do!”",
+        "description": "So you found your match – now what? We’ve got you covered with our Wedding Planning Workshops. Get insider tips on everything from picking the perfect wedding theme to staying sane while organizing it all. Because let’s face it, planning a wedding can be a lot – but with Frizzbee, you’re not alone!"
+      },
+      {
+        "image": "image4",
+        "heading": "Speed Matching: Fast, Fun, and Fascinating",
+        "description": "Why wait around when you can meet multiple potential matches in one fun, fast-paced session? Our Speed Matching events are the perfect way to dive into the dating pool without any of the awkward pauses. It’s quick, it’s easy, and it’s designed for busy people like you who don’t want to waste time."
+      },
+      {
+        "image": "image5",
+        "heading": "Personal Growth Talks: Build a Relationship That Lasts",
+        "description": "We know that love isn’t just about finding someone – it’s about growing together. That’s why we’re hosting Personal Development & Relationship Talks with experts to help you build stronger, healthier connections. So, whether you’re dating for the first time or looking to level up your current relationship."
+      },
+      {
+        "image": "image6",
+        "heading": "Compatibility Workshops: Find Your Perfect Match",
+        "description": "Discover what makes you click! Our Compatibility Workshops help you understand your core values and preferences, guiding you to identify the ideal partner. Whether you're new to dating or strengthening a relationship, these expert-led sessions will set you on the path to lasting love."
+      }
+    ],
+    "btnText": "Learn more",
+    "btnLink": "#"
+  },
+
+  "faqs": {
+    "heading": "FAQs",
+    "questions": [
+      {
+        "question": "Do I need the Frizzbee app to attend events?",
+        "answer": "Yes! To ensure a safe and seamless experience, all events are exclusively for Frizzbee members. Simply download the app, create your profile, and you're ready to join all upcoming events!"
+      },
+      {
+        "question": "How do I find events on the Frizzbee app?",
+        "answer": "Finding events is easy! Just open the app, go to Menu → Events, and browse through our upcoming matchmaking sessions, workshops, and fun meetups. RSVP to your favorites, and you’re all set!"
+      },
+      {
+        "question": "How can I connect with other attendees after an event?",
+        "answer": "No need for phone numbers or awkward follow-ups! After the event, head to Menu → Events and access the unlocked guest list. You can match and chat with anyone you meet through our app’s exclusive messaging feature."
+      },
+      {
+        "question": "What if I missed an event I was interested in?",
+        "answer": "Don’t worry! Our events are always updated, and we often host similar ones. Stay tuned for upcoming sessions and be sure to RSVP early so you never miss out."
+      },
+      {
+        "question": "Is my data and privacy safe on Frizzbee?",
+        "answer": "Absolutely! We take your privacy seriously. Your profile information and messages are only visible to users you've connected with. Plus, you have full control over what you share. No surprises, just genuine connections."
+      },
+      {
+        "question": "Can I attend events with my friends?",
+        "answer": "Of course! We encourage you to share the love. Invite your friends to join Frizzbee, and you can all attend events together and meet new people. Who knows, you might even find someone for them!"
+      },
+      {
+        "question": "How can I improve my chances of finding a match on Frizzbee?",
+        "answer": "It’s all about being yourself! Fill out your profile with your interests, preferences, and what you’re looking for in a partner. Engage with the events, participate in workshops, and make the most of every opportunity to connect. The more active you are, the better your chances!"
+      }
+    ]
+  },
+
+  "terms": {
+    "title": "Terms and Conditions",
+    "conditions": [
+      {
+        "heading": "Photographs and Videos",
+        "description": "By attending our events, you acknowledge that you may be photographed or videotaped during the experience. You grant Frizzbee permission to use any resulting media for promotional, advertising, or other purposes."
+      },
+      {
+        "heading": "No Refunds",
+        "description": "To ensure fairness and avoid empty spots, all event tickets are non-refundable. Please confirm your availability before purchasing."
+      },
+      {
+        "heading": "Right to Refuse Entry",
+        "description": "Frizzbee reserves the right to refuse entry to anyone who is blocked on the app or has purchased an incorrect gender ticket. No refunds will be provided for such invalid purchases."
+      },
+      {
+        "heading": "Personal Belongings",
+        "description": "All personal items, including jackets and bags, are brought to the event at your own risk. Frizzbee and the event venue are not responsible for any lost or missing items."
+      },
+      {
+        "heading": "No Soliciting",
+        "description": "We have a zero-tolerance policy for soliciting other attendees for external events, groups, or clubs. Any individual caught doing so will be immediately evicted and banned from future Frizzbee events."
+      },
+      {
+        "heading": "Code of Conduct",
+        "description": "Any individual found to be abusive, aggressive, or making other attendees uncomfortable will be removed from the event. The user may be permanently blocked from Frizzbee and will be ineligible for future events."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "safetyHeroData": {
+    "heading": "Sicherheit der Mitglieder - Allgemeine Geschäftsbedingungen",
+    "description": "Bei Fizzzbee steht Ihre Sicherheit an erster Stelle. Wir möchten sicherstellen, dass jedes Mitglied eine sichere und respektvolle Umgebung genießen kann. Um Ihre Sicherheit zu gewährleisten, bitten wir Sie, die folgenden Richtlinien zu befolgen:"
+  },
+  "guidelinesData": [
+    {
+      "title": "Persönliche Sicherheit",
+      "steps": [
+        "Sie sind für Ihre eigene Sicherheit verantwortlich, wenn Sie mit anderen Mitgliedern auf der Plattform interagieren. Seien Sie stets vorsichtig, wenn Sie online mit anderen in Kontakt treten.",
+        "Teilen Sie keine sensiblen persönlichen Informationen, wie z. B. Wohnadressen, Finanzdaten oder Passwörter, mit Personen, die Sie nicht persönlich kennen.",
+        "Wir empfehlen, sich an sicheren, öffentlichen Orten zu treffen, wenn Sie sich offline verabreden. Informieren Sie immer einen vertrauenswürdigen Freund oder ein Familienmitglied über Ihre Pläne."
+      ]
+    },
+    {
+      "title": "Benutzerverifizierung",
+      "steps": [
+        "Mitglieder werden ermutigt, während des Registrierungsprozesses genaue Informationen anzugeben. Fizzzbee kann zusätzliche Verifizierungen anfordern, um die Sicherheit der Plattform zu gewährleisten.",
+        "Wir empfehlen, ein verifiziertes Profilbild hochzuladen, damit sich andere sicherer fühlen, mit Ihnen in Kontakt zu treten."
+      ]
+    },
+    {
+      "title": "Meldung von Sicherheitsbedenken",
+      "steps": [
+        "Wenn Sie verdächtige Aktivitäten, Belästigungen oder Verhaltensweisen bemerken, die Sie sich unsicher fühlen lassen, melden Sie diese sofort dem Fizzzbee-Supportteam.",
+        "Wir nehmen alle Sicherheitsmeldungen ernst und werden diese umgehend untersuchen, um geeignete Maßnahmen zu ergreifen."
+      ]
+    },
+    {
+      "title": "Kontosicherheit",
+      "steps": [
+        "Halten Sie Ihre Kontoinformationen vertraulich. Fizzzbee ist nicht verantwortlich für Verluste, die durch die Weitergabe Ihrer Anmeldedaten an Dritte entstehen.",
+        "Wenn Sie den Verdacht haben, dass Ihr Konto unbefugt genutzt wird, melden Sie es uns sofort, damit Sicherheitsmaßnahmen ergriffen werden können."
+      ]
+    }
+  ]
+}

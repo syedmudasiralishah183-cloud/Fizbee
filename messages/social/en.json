@@ -1,0 +1,58 @@
+{
+  "callingCards": [
+    {
+      "heading": "Build Meaningful Local Connections",
+      "description": "Engage with people in your community, meet like-minded friends nearby, and join groups that spark your interests. Express yourself and connect effortlessly!",
+      "btnText": "Find out more"
+    },
+    {
+      "heading": "Share Freely, Anonymously When Needed",
+      "description": "Engage with your community by posting or seeking advice. For sensitive matters, you have the option to post anonymously and maintain your privacy.",
+      "btnText": "Find out more"
+    },
+    {
+      "heading": "A Secure Platform Upholding Ethical Values",
+      "description": "We support open discussions on important issues while promoting respect within the community. Our 24/7 support team ensures your feed remains positive and respectful at all times.",
+      "btnText": "Find out more"
+    }
+  ],
+
+
+
+  "makeFriendData": {
+    "title": "INTRODUCING",
+    "mainHeading": "Fizzzbee social",
+    "subHeading": "Looking to make new friends and also find a partner?",
+    "secSubHeading": "A brand new social network for you to meet likeminded Muslims nearby. Download Fizzzbee now.",
+    "description": "Be the first to know when we release social-only mode.",
+    "btnText": "Download Now",
+    "btnLink": "#",
+    "Images": { "image": "makeFriendImage" }
+  },
+
+  "makeFriendData2": {
+    "title": "",
+    "mainHeading": "Exclusively launching for Fizzzbee members!",
+    "subHeading": "Now available exclusively to Fizzzbee members in the UK, US, Canada, and Australia.",
+    "secSubHeading": "To see great content and start connecting with your community, download Muzz now.",
+    "description": "",
+    "btnText": "",
+    "btnLink": "#",
+    "cardHeading": "Looking for friends, not a partner? Sign up to be the first to know when we launch our social-only mode!",
+    "cardBtnText": "Download now",
+    "cardBtnLink": "#",
+    "Images": { "image": "social" }
+  },
+
+  
+  "makeFriendData3":{
+    "title": "INTRODUCING",
+  "mainHeading": "Fizzzbee Social",
+  "subHeading": "Looking to make new friends and also find a partner?",
+  "secSubHeading": "A brand new social network for you to meet likeminded Muslims nearby. Download Fizzzbee now.",
+  "description": "Be the first to know when we release social-only mode.",
+  "btnText": "",
+  "btnLink": "#",
+  "Images": { "image": "social" }
+  }
+}

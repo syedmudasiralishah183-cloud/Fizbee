@@ -1,0 +1,37 @@
+{
+  "safetyHeroData": {
+    "heading": "Safety of Members - Terms and Conditions",
+    "description": "At Fizzzbee, your safety is our top priority. We want to ensure that every member can enjoy a secure and respectful environment. To help protect your safety, we ask that you follow these guidelines:"
+  },
+  "guidelinesData": [
+    {
+      "title": "Personal Safety",
+      "steps": [
+        "You are responsible for your own safety when interacting with other members on the platform. Always exercise caution when engaging with others online.",
+        "Do not share sensitive personal information, such as home addresses, financial details, or passwords, with anyone you have not met in person.",
+        "We recommend meeting in safe, public places if you decide to meet offline. Always inform a trusted friend or family member of your plans."
+      ]
+    },
+    {
+      "title": "User Verification",
+      "steps": [
+        "Members are encouraged to provide accurate information during the sign-up process. Fizzzbee may request additional verification to ensure the safety of the platform.",
+        "We suggest uploading a verified profile picture to help others feel confident in connecting with you."
+      ]
+    },
+    {
+      "title": "Reporting Safety Concerns",
+      "steps": [
+        "If you encounter any suspicious activity, harassment, or behavior that makes you feel unsafe, report it immediately to Fizzzbee’s support team.",
+        "We take all safety reports seriously and will investigate them promptly to take appropriate action."
+      ]
+    },
+    {
+      "title": "Account Security",
+      "steps": [
+        "Keep your account information confidential. Fizzzbee is not responsible for any losses resulting from sharing your login details with others.",
+        "If you suspect unauthorized access to your account, report it to us immediately for security measures to be taken."
+      ]
+    }
+  ]
+}

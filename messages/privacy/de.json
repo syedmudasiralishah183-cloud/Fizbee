@@ -1,0 +1,57 @@
+{
+  "safetyHeroData": {
+    "heading": "Unsere Datenschutzrichtlinie",
+    "description": "Willkommen bei Fizzzbee, einer Heiratsplattform und App, die Einzelpersonen für eine potenzielle Ehe verbindet. Ihre Privatsphäre ist uns wichtig. Diese Datenschutzrichtlinie beschreibt, wie wir Ihre persönlichen Daten erfassen, verwenden, schützen und weitergeben."
+  },
+  "guidelinesData": [
+    {
+      "title": "Wie wir Ihre Informationen nutzen",
+      "description": "Wir verwenden Ihre Informationen für folgende Zwecke:",
+      "steps": [
+        "Zum Erstellen und Verwalten Ihres Profils.",
+        "Zur Verbindung mit kompatiblen Partnern basierend auf Ihren Präferenzen.",
+        "Zur Verbesserung der Benutzererfahrung und Bereitstellung von Kundensupport.",
+        "Zur Überwachung und Verhinderung betrügerischer Aktivitäten.",
+        "Zur Einhaltung gesetzlicher Verpflichtungen und Durchsetzung unserer Nutzungsbedingungen."
+      ]
+    },
+    {
+      "title": "Weitergabe von Informationen",
+      "description": "Wir verkaufen oder vermieten Ihre persönlichen Daten nicht. Allerdings können wir sie in folgenden Fällen weitergeben:",
+      "steps": [
+        "An andere Benutzer: Profilinformationen (ohne Kontaktdaten) sind für registrierte Benutzer sichtbar.",
+        "An Dienstleister: Vertrauenswürdige Drittanbieter, die den Betrieb der Plattform unterstützen, z. B. Zahlungsabwicklung und Sicherheitsüberprüfung.",
+        "Aus rechtlichen Gründen: Falls dies gesetzlich vorgeschrieben ist, durch Gerichtsbeschluss oder um Betrug oder Schaden zu verhindern."
+      ]
+    },
+    {
+      "title": "Datensicherheit",
+      "description": "Wir setzen branchenübliche Sicherheitsmaßnahmen ein, um Ihre persönlichen Daten zu schützen. Allerdings ist keine Methode der Datenübertragung über das Internet zu 100 % sicher, und wir können keine absolute Sicherheit garantieren."
+    },
+    {
+      "title": "Ihre Datenschutzoptionen",
+      "description": "Sie können Ihre Datenschutzeinstellungen auf folgende Weise steuern:",
+      "steps": [
+        "Ihr Profil jederzeit bearbeiten oder löschen.",
+        "Benachrichtigungen und Kommunikationspräferenzen verwalten.",
+        "Zugriff auf Ihre persönlichen Daten anfordern, Änderungen vornehmen oder die Löschung beantragen, indem Sie uns kontaktieren."
+      ]
+    },
+    {
+      "title": "Cookies und Tracking-Technologien",
+      "description": "Wir verwenden Cookies und ähnliche Technologien, um die Benutzererfahrung zu verbessern, den Datenverkehr auf der Website zu analysieren und die Sicherheit zu erhöhen. Sie können Ihre Cookie-Einstellungen über Ihren Browser verwalten."
+    },
+    {
+      "title": "Datenschutz für Kinder",
+      "description": "Fizzzbee ist für Benutzer ab 18 Jahren vorgesehen. Wir sammeln wissentlich keine Informationen von Kindern. Falls wir solche Daten entdecken, werden wir sie umgehend löschen."
+    },
+    {
+      "title": "Änderungen an dieser Richtlinie",
+      "description": "Wir können diese Datenschutzrichtlinie regelmäßig aktualisieren. Alle Änderungen werden auf dieser Seite veröffentlicht, und die weitere Nutzung unserer Dienste bedeutet, dass Sie die überarbeitete Richtlinie akzeptieren."
+    },
+    {
+      "title": "",
+      "description": "Durch die Nutzung von Fizzzbee bestätigen Sie, dass Sie diese Datenschutzrichtlinie gelesen und verstanden haben und deren Bedingungen zustimmen."
+    }
+  ]
+}

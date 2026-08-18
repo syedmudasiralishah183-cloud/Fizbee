@@ -1,0 +1,110 @@
+{
+  "title": "Bereite dich auf die besten Heiratsveranstaltungen vor – nur bei Frizzbee!",
+  "heading": "Hast du genug von peinlichen Arrangements und neugierigen Tanten, die dir Beziehungstipps geben? Sag Hallo zu Frizzbee, deiner Anlaufstelle für die Liebe auf deine Weise – ohne Druck, ohne Eingriffe. Wir bringen dir eine Reihe spannender Veranstaltungen, die genauso unterhaltsam wie effektiv sind, um deinen perfekten Partner zu finden.",
+  "btnText": "Jetzt herunterladen",
+  "btnLink": "#",
+  "image": "sideImage",
+  "heroImage": "heroImage",
+
+  "latestBlogsData": {
+    "heading": "Hier ist, was bald kommt",
+    "blogsCard": [
+      {
+        "image": "image1",
+        "heading": "Virtuelles Matchmaking: Die Zukunft des Datings",
+        "description": "Keine nervigen ersten Dates oder blinden Flecken mehr – unsere Live-virtuellen Matchmaking-Veranstaltungen ermöglichen es dir, Menschen aus der ganzen Welt in einer sicheren und entspannten Umgebung zu treffen. Stell dir das wie Speed-Dating vor, aber viel cooler, mit echten Matchmakern, die den Prozess begleiten. Vertrau uns, es ist der einfachste Weg, jemanden zu finden, der dich versteht."
+      },
+      {
+        "image": "image2",
+        "heading": "Kulturelle & Regionale Verbindungen: Globale Matches, lokale Vibes",
+        "description": "Egal ob du in Lahore oder London bist, Frizzbees kulturelle und regionale Verbindungen ermöglichen es dir, Profile aus aller Welt zu erkunden. Du kannst jemanden finden, der deine Traditionen, Werte und sogar deine Vibes teilt – ganz gleich, wo sie sich befinden. Es geht darum, deinen Horizont zu erweitern, ohne dein Sofa zu verlassen."
+      },
+      {
+        "image": "image3",
+        "heading": "Hochzeitsplanung 101: Von „Willst du?“ bis „Ich tue!“",
+        "description": "Also hast du deinen Partner gefunden – und jetzt? Wir haben dich mit unseren Hochzeitsplanungsworkshops abgedeckt. Hol dir Insider-Tipps zu allem, von der Auswahl des perfekten Hochzeitsthemas bis hin zur Bewahrung deiner Gelassenheit beim Organisieren. Denn mal ehrlich, eine Hochzeit zu planen kann ganz schön viel sein – aber mit Frizzbee bist du nicht allein!"
+      },
+      {
+        "image": "image4",
+        "heading": "Speed Matching: Schnell, spaßig und faszinierend",
+        "description": "Warum warten, wenn du in einer schnellen und spaßigen Sitzung mehrere potenzielle Partner kennenlernen kannst? Unsere Speed-Matching-Veranstaltungen sind der perfekte Weg, in den Dating-Pool zu springen, ohne peinliche Pausen. Es ist schnell, einfach und für vielbeschäftigte Menschen wie dich gemacht, die keine Zeit verschwenden wollen."
+      },
+      {
+        "image": "image5",
+        "heading": "Persönlichkeitsentwicklung: Baue eine Beziehung auf, die hält",
+        "description": "Wir wissen, dass Liebe nicht nur darum geht, jemanden zu finden – es geht darum, gemeinsam zu wachsen. Deshalb veranstalten wir Persönlichkeits- und Beziehungsgespräche mit Experten, um dir zu helfen, stärkere und gesündere Verbindungen aufzubauen. Ob du zum ersten Mal datest oder deine aktuelle Beziehung auf die nächste Stufe heben möchtest."
+      },
+      {
+        "image": "image6",
+        "heading": "Kompatibilitätsworkshops: Finde deinen perfekten Partner",
+        "description": "Finde heraus, was euch verbindet! Unsere Kompatibilitätsworkshops helfen dir, deine Kernwerte und Vorlieben zu verstehen, damit du den idealen Partner finden kannst. Ob du neu im Dating bist oder eine Beziehung stärkst, diese Expertengeführten Sitzungen bringen dich auf den Weg zur dauerhaften Liebe."
+      }
+    ],
+    "btnText": "Mehr erfahren",
+    "btnLink": "#"
+  },
+
+  "faqs": {
+    "heading": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Brauche ich die Frizzbee-App, um an Veranstaltungen teilzunehmen?",
+        "answer": "Ja! Um ein sicheres und reibungsloses Erlebnis zu gewährleisten, sind alle Veranstaltungen ausschließlich für Frizzbee-Mitglieder. Lade einfach die App herunter, erstelle dein Profil, und du bist bereit, an allen kommenden Veranstaltungen teilzunehmen!"
+      },
+      {
+        "question": "Wie finde ich Veranstaltungen in der Frizzbee-App?",
+        "answer": "Die Veranstaltungen zu finden ist einfach! Öffne die App, gehe zu Menü → Veranstaltungen und stöbere durch unsere bevorstehenden Matchmaking-Sitzungen, Workshops und Spaßtreffen. Melde dich für deine Favoriten an, und du bist bereit!"
+      },
+      {
+        "question": "Wie kann ich nach einer Veranstaltung mit anderen Teilnehmern in Kontakt treten?",
+        "answer": "Keine Notwendigkeit für Telefonnummern oder peinliche Nachfragen! Nach der Veranstaltung gehe zu Menü → Veranstaltungen und sieh dir die freigeschaltete Gästeliste an. Du kannst mit jedem, den du getroffen hast, über die exklusive Nachrichtenfunktion der App matchen und chatten."
+      },
+      {
+        "question": "Was, wenn ich eine Veranstaltung verpasst habe, die mich interessiert hat?",
+        "answer": "Keine Sorge! Unsere Veranstaltungen werden immer aktualisiert, und wir veranstalten oft ähnliche. Bleib dran für bevorstehende Sitzungen und melde dich frühzeitig an, damit du nichts verpasst."
+      },
+      {
+        "question": "Sind meine Daten und meine Privatsphäre bei Frizzbee sicher?",
+        "answer": "Absolut! Wir nehmen deine Privatsphäre ernst. Deine Profilinformationen und Nachrichten sind nur für Nutzer sichtbar, mit denen du dich verbunden hast. Außerdem hast du die volle Kontrolle darüber, was du teilst. Keine Überraschungen, nur echte Verbindungen."
+      },
+      {
+        "question": "Kann ich mit meinen Freunden an Veranstaltungen teilnehmen?",
+        "answer": "Natürlich! Wir ermutigen dich, die Liebe zu teilen. Lade deine Freunde ein, Frizzbee beizutreten, und ihr könnt gemeinsam an Veranstaltungen teilnehmen und neue Leute kennenlernen. Wer weiß, vielleicht findest du sogar jemanden für sie!"
+      },
+      {
+        "question": "Wie kann ich meine Chancen auf ein Match bei Frizzbee verbessern?",
+        "answer": "Es geht darum, du selbst zu sein! Fülle dein Profil mit deinen Interessen, Vorlieben und dem, was du bei einem Partner suchst. Nimm an Veranstaltungen teil, beteilige dich an Workshops und nutze jede Gelegenheit, um dich zu vernetzen. Je aktiver du bist, desto besser sind deine Chancen!"
+      }
+    ]
+  },
+
+  "terms": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "conditions": [
+      {
+        "heading": "Fotos und Videos",
+        "description": "Mit der Teilnahme an unseren Veranstaltungen erkennst du an, dass du möglicherweise während der Erfahrung fotografiert oder gefilmt wirst. Du erteilst Frizzbee die Erlaubnis, jegliches daraus resultierende Material für Werbezwecke zu verwenden."
+      },
+      {
+        "heading": "Keine Rückerstattungen",
+        "description": "Um Fairness zu gewährleisten und leere Plätze zu vermeiden, sind alle Eintrittskarten für Veranstaltungen nicht erstattungsfähig. Bitte stelle sicher, dass du verfügbar bist, bevor du ein Ticket kaufst."
+      },
+      {
+        "heading": "Recht auf Eintrittsverweigerung",
+        "description": "Frizzbee behält sich das Recht vor, den Eintritt für Personen zu verweigern, die auf der App blockiert wurden oder ein falsches Ticket für das Geschlecht gekauft haben. In solchen Fällen erfolgt keine Rückerstattung."
+      },
+      {
+        "heading": "Persönliche Gegenstände",
+        "description": "Alle persönlichen Gegenstände, einschließlich Jacken und Taschen, werden auf eigenes Risiko mitgebracht. Frizzbee und der Veranstaltungsort sind nicht für verlorene oder abhandengekommene Gegenstände verantwortlich."
+      },
+      {
+        "heading": "Kein Verkauf",
+        "description": "Wir haben eine Null-Toleranz-Politik gegenüber dem Verkauf von Teilnehmern für externe Veranstaltungen, Gruppen oder Clubs. Jede Person, die beim Versuch ertappt wird, wird sofort von der Veranstaltung entfernt und für zukünftige Frizzbee-Veranstaltungen gesperrt."
+      },
+      {
+        "heading": "Verhaltenskodex",
+        "description": "Jede Person, die sich aggressiv oder belästigend verhält und andere Teilnehmer unangenehm macht, wird von der Veranstaltung entfernt. Der Benutzer kann dauerhaft von Frizzbee gesperrt werden und ist für zukünftige Veranstaltungen nicht mehr berechtigt."
+      }
+    ]
+  }
+}

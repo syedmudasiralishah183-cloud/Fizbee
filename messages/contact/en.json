@@ -1,0 +1,14 @@
+{
+  "heading": "Send us a message",
+  "p": "Looking to connect with someone special or have questions about your dating profile? We're here to help! Simply fill in your details below, and our team will get back to you soon.",
+  "nameLabel": "Name",
+  "namePlaceholder": "Enter your name",
+  "emailLabel": "Email Address",
+  "emailPlaceholder": "Enter your email",
+  "phoneLabel": "Phone Number",
+  "phonePlaceholder": "Enter your Mobile number",
+  "messageLabel": "Message",
+  "messagePlaceholder": "Write your message",
+  "submitButtonText": "Submit",
+  "submittingText": "Submitting"
+}

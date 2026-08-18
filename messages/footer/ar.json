@@ -1,0 +1,26 @@
+{
+  "socialMedia": {
+    "heading": "فيزبي",
+    "paraCopy": "فيزبي. جميع الحقوق محفوظة."
+  },
+  "footer": {
+    "company": "الشركة",
+    "product": "المنتج",
+    "helpSupport": "المساعدة والدعم",
+    "legal": "قانوني",
+    "items": {
+      "blog": "مدونة",
+      "events": "الفعاليات",
+      "social": "اجتماعي",
+      "gold": "فيزبي جولد",
+      "successStories": "قصص النجاح",
+      "downloadNow": "قم بالتنزيل الآن",
+      "safety": "الأمان",
+      "contact": "اتصل بنا",
+      "behavior": "السلوك",
+      "terms": "الشروط",
+      "privacyPolicy": "سياسة الخصوصية",
+      "cookies": "الكوكيز"
+    }
+  }
+}

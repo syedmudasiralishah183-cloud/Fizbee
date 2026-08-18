@@ -1,0 +1,39 @@
+{
+  "safetyHeroDataa": {
+    "heading": "Behavior of Members - Terms and Conditions",
+    "description": "At Fizzzbee, we aim to create a positive, respectful community where members interact with kindness and integrity. The following guidelines are in place to maintain a friendly and respectful environment:"
+  },
+  "guidelinesDataa": [
+    {
+      "title": "Respectful Interaction",
+      "steps": [
+        "Treat all members with respect and kindness. Harassment, discrimination, and abusive language are strictly prohibited.",
+        "Engage in positive conversations and interactions that contribute to the well-being of the community."
+      ]
+    },
+    {
+      "title": "Prohibited Conduct",
+      "steps": [
+        "The following behaviors are strictly prohibited on Fizzzbee: harassment in any form, including verbal, emotional, or physical abuse directed towards any member; deceptive practices such as misrepresentation of personal information or attempts to manipulate or exploit others; discrimination based on race, gender, religion, sexual orientation, or any other protected characteristic; sexual misconduct, including sharing explicit content or engaging in sexually suggestive behavior, which will result in immediate action; and the posting of offensive content, such as hate speech, harmful remarks, or any material that violates our community guidelines."
+      ]
+    },
+    {
+      "title": "Accountability for Actions",
+      "steps": [
+        "You are responsible for your actions on the platform. If your behavior violates these guidelines, we reserve the right to take disciplinary action, which may include temporary suspension, permanent ban, or reporting to authorities."
+      ]
+    },
+    {
+      "title": "Respect for Privacy",
+      "steps": [
+        "Members must respect the privacy of others. Sharing private messages or content without consent is not allowed."
+      ]
+    },
+    {
+      "title": "Building a Positive Community",
+      "steps": [
+        "We encourage members to contribute positively by supporting others, engaging in friendly conversations, and offering help when needed. Your actions help build a welcoming and healthy environment for everyone."
+      ]
+    }
+  ]
+}

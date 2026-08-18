@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Syne:wght@400..800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --bg-dark: #171717;
+  --primary-color: #880f18;
+  --primary-color-shade: #96101f;
+  --secondary-color: #a91128;
+  --bg-color: #e2e1e196;
+  --dark-heading: #000000;
+  --light-heading: #ffffff;
+  --primary-heading: #8a0f19;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: theme(colors.primary_color);
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(184, 223, 236, 0.25);
+}
+
+body[dir="rtl"] {
+  text-align: right; /* For RTL languages, align text to the right */
+}
+
+body[dir="ltr"] {
+  text-align: left; /* For LTR languages, align text to the left */
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: theme(colors.primary_color_shade) rgb(17, 29, 34);
+  scroll-behavior: calc(top);
+}
+
+.sec__font {
+  font-family: "Syne", sans-serif;
+}
+
+.welcome_text::after {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 125px;
+  height: 3px; /* Adjust height to match your design */
+  background-color: var(--primary-color); /* Color the bottom line */
+}
+/* 
+body {
+  font-family: Montserrat, Syne, sans-serif;
+} */
+.btn-3d {
+  background: linear-gradient(145deg, #96101f, #a91128); /* Primary gradient */
+  color: #ffffff; /* Light heading color */
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  /* box-shadow: 0 8px #880f18, 0 0 15px rgba(136, 15, 24, 0.5); */
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-3d:hover {
+  background: linear-gradient(
+    145deg,
+    #a91128,
+    #96101f
+  ); /* Reverse primary gradient */
+  color: #ffffff; /* Keep text white */
+  box-shadow: 0 10px 20px rgba(169, 17, 40, 0.7), 0 0 20px rgba(136, 15, 24, 1); /* Enhanced hover shadow */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+.btn-3d:active {
+  transform: translateY(6px); /* Depressed effect */
+  box-shadow: 0 2px #880f18; /* Reduced shadow */
+  background: linear-gradient(
+    145deg,
+    #880f18,
+    #96101f
+  ); /* Slightly darker gradient */
+}
+.rotate-animation {
+  transition: transform 0.3s ease-in-out;
+}
+
+.rotate-animation:hover {
+  transform: rotate(360deg);
+}
